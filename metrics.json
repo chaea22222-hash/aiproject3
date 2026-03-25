@@ -1,0 +1,6 @@
+{
+  "svm_no_scaling": 0.5978,
+  "svm_standard": 0.8156,
+  "svm_minmax": 0.8101,
+  "knn_standard": 0.7989
+}
